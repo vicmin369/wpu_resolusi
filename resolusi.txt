@@ -2,4 +2,3 @@ resolusi:
 1. belajar
 2. olahraga
 3. buat web pribadi
-4. cyber security
