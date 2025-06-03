@@ -1,3 +1,5 @@
 resolusi:
 1. belajar
 2. olahraga
+3. buat workshop
+4. cyber security
