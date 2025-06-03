@@ -1,4 +1,4 @@
 resolusi skill
--cyber
+-cyber security
 -web3.0
 -api
